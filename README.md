@@ -19,15 +19,15 @@ This Loan Calculator is a Python-based application designed to help users manage
 - pip (Python package installer)
 
 ### Required Libraries
-Install the required libraries using pip:
+Install the required libraries using pip:pip install pandas matplotlib python-dateutil tabulate sqlite3
 
 ### Setup
-1. Clone the repository:
-2. Navigate to the project directory:
+1. Clone the repository: git clone https://github.com/jchav77/loan-calculator.git
+2. Navigate to the project directory: cd loan-calculator
 
 ## 🖥️ Usage
 
-Run the main script:
+Run the main script: python loan_calculator.py
 
 Follow the on-screen prompts to:
 1. Create a new loan
