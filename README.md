@@ -73,4 +73,4 @@ Contributions to improve the Loan Calculator are welcome. Please follow these st
 
 Julio Chavez - Jchav77@gmail.com
 
-Project Link: [https://github.com/yourusername/loan-calculator](https://github.com/Jchav77/loan-calculator)
+Project Link: [https://github.com/Jchav77/loan-calculator](https://github.com/Jchav77/loan-calculator)
